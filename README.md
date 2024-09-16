@@ -4,7 +4,7 @@ Network-based approaches have provided an important contribution for the underst
 
 In a large-scale simulation study [1], we tested and compared the performance of 14 methodological approaches including some still limitedly used in the context of psychometrics network inference. We assessed  the impact of various factors such as the sample size, the number of variables (i.e., network elements), the density of the true underlying graph and the number of ordinal levels. 
 
-This page contains the scripts to perform the experiments from [1]. It also contains the complete set ofoutput figures for each of the 4 scenarios tested. 
+This page contains the scripts (`Simulations_ScenarioXX_script.R`) to perform the experiments from [1]. It also contains the complete set of output figures (`ScenXX_Figs.tgz`) for each of the 4 scenarios tested. 
 
 ## Requirements 
 To run those scripts and perform our experiments, you will need R and the packages `optparse`, `igraph`, `BDgraph`, `qgraph`, `bootnet`, `GGMnonreg`, `GeneNet`,   `PAsso`,   `psychonetrics`,   `BGGM`, `e1071`.   

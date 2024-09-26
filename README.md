@@ -31,4 +31,4 @@ Table with the 14 methods compared:
 |  PAsso |  PAsso | PAsso  | raw data |default| 
 
 ## References: 
-1. Claudia Delli Colli, Blerina Sinaimeri, Giuseppe F. Italiano, Igor Branchi and Catherine Matias (2024). Psychometric network inference: A comparative analysis of graphical models approaches for ordinal variables and low-dimensional settings. Submitted. Bio-ArXiv XXXX
+1. Claudia Delli Colli, Blerina Sinaimeri, Giuseppe F. Italiano, Igor Branchi and Catherine Matias (2024). Psychometric network inference: A comparative analysis. Submitted. [PsyArXiv preprint](https://osf.io/preprints/psyarxiv/mcj9a)
